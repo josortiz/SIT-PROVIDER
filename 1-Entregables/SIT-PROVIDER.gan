@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="SIT-PROVIDER" company="SIT-WIFI" webLink="http://" view-date="2015-01-01" view-index="0" gantt-divider-location="810" resource-divider-location="601" version="2.0" locale="es">
+<?xml version="1.0" encoding="UTF-8"?><project name="SIT-PROVIDER" company="SIT-WIFI" webLink="http://" view-date="2015-01-12" view-index="0" gantt-divider-location="810" resource-divider-location="601" version="2.0" locale="es">
     <description><![CDATA[SIstema Modular para SITI-WIFI]]></description>
-    <view zooming-state="default:9" id="gantt-chart">
+    <view zooming-state="default:7" id="gantt-chart">
         <field id="tpd3" name="Nombre" width="51" order="0"/>
         <field id="tpd4" name="Fecha de inicio" width="24" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="23" order="2"/>
